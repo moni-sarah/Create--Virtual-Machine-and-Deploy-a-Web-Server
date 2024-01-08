@@ -36,7 +36,7 @@ It also helps us filter connections between our internal resources and the Inter
 ### 3. Create a Network Security Group to protect the internal Subnet of the Virtual Machine 
 A security group helps us filter traffic to and from Azure resources inside the Virtual Network.
 This allows us to allow or deny inbound and outbound traffic to end from different Azure resources and also to the Internet.
-![Reference Image](pic8.bmp)
+![Reference Image](pic7.bmp)
 
 ### 4. Create an Azure Bastion Instance to connect to our Virtual Machine
   -To use Bastion to connect to our Virtual Machine, we need to create a subnet for it first.
