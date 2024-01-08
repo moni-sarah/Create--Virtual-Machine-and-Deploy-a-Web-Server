@@ -43,7 +43,7 @@ This allows us to allow or deny inbound and outbound traffic to end from differe
   ![Reference Image](pic23.bmp)
 
 ### 5. Create an Ubuntu Server Virtual Machine
-![Reference Image](pic11.bmp)
+![Reference Image](pic22.bmp)
 
 ### 6. Install Nextcloud by connecting via SSH using Bastion
 ![Reference Image](pic24.bmp)
