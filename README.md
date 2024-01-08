@@ -42,5 +42,5 @@ This allows us to allow or deny inbound and outbound traffic to end from differe
   -To use Bastion to connect to our Virtual Machine, we need to create a subnet for it first.
   ![Reference Image](pic21.bmp)
 
-### 5. Create a Virtual Machine 
+### 5. Create an Ubuntu Server Virtual Machine
 ![Reference Image](pic11.bmp)
