@@ -52,4 +52,4 @@ This allows us to allow or deny inbound and outbound traffic to end from differe
 ![Reference Image](pic25.bmp)
 
 ### 8. Create a DNS labelS
-![Reference Image](pic25.bmp)
+![Reference Image](pic20.bmp)
