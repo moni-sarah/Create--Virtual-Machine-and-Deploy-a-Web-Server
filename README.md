@@ -31,6 +31,7 @@ This Resource gruop will allows us to group all the reources into a logical grou
 A Virual Network is a logical network that enable different resources to securly comminicate with each other,
 as if they were physically connected. 
 It also helps us filter connections between our internal resources and the Internet.
+![Reference Image](pic3.bmp)
 
 ### 3. Create a Network Security Group to protect the internal Subnet of the Virtual Machine 
 A security group helps us filter traffic to and from Azure resources inside the Virtual Network.
