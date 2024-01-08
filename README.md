@@ -44,3 +44,9 @@ This allows us to allow or deny inbound and outbound traffic to end from differe
 
 ### 5. Create a Virtual Machine 
 ![Reference Image](pic11.bmp)
+
+### 6. Install Nextcloud by connecting via SSH using Bastion
+
+### 7. Publish an IP
+
+### 8. Create a DNS labelS
